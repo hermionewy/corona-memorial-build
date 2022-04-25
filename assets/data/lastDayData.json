@@ -1,1 +1,26 @@
-{"date":"2022-04-13","new_jersey":1,"new_jersey_total":33336,"new_jersey_total_per100k":358.88,"new_jersey_7day_average":3.43,"new_jersey_7day_average_per100k":0.04}
+{
+    "date": "2022-04-22",
+    "atlantic_total": 989,
+    "bergen_total": 3438,
+    "burlington_total": 1199,
+    "camden_total": 1801,
+    "cape_may_total": 301,
+    "cumberland_total": 599,
+    "essex_total": 3601,
+    "gloucester_total": 960,
+    "hudson_total": 2723,
+    "hunterdon_total": 274,
+    "mercer_total": 1255,
+    "middlesex_total": 2868,
+    "monmouth_total": 2170,
+    "morris_total": 1534,
+    "ocean_total": 2935,
+    "passaic_total": 2336,
+    "salem_total": 246,
+    "somerset_total": 972,
+    "sussex_total": 473,
+    "union_total": 2356,
+    "unknown_total": 0,
+    "warren_total": 341,
+    "new_jersey_total": 33371
+}
